@@ -15,4 +15,7 @@ contact:
 
 4. i will be going over the material i have learned so i can produce better websites/applications for anyone who comes across my work
 
-5. 
+5. i fixed the issue i had with creating smooth scroll for the header navbar
+
+images of my deployed website:
+
