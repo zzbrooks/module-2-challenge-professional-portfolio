@@ -1,6 +1,6 @@
 # module-2-project
 
-link to deployed application: file:///C:/Users/zabir/Desktop/Bootcamp/challenges/week-2/module-2-challenge-professional-portfolio/Portfolio/index.html#
+link to deployed application: https://zzbrooks.github.io/module-2-challenge-professional-portfolio/
 
 contact:
   - Zabir Sarwar
@@ -18,4 +18,5 @@ contact:
 5. i fixed the issue i had with creating smooth scroll for the header navbar
 
 images of my deployed website:
-
+![alt text](image.png)
+![alt text](image-1.png)
