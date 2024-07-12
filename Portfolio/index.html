@@ -8,16 +8,17 @@
   </head>
 
   <body>
-
+    <!-- this is the parent container to which the outline of the CSS gred was created to -->
     <div class="container">
 
       <div class="item item-1">
         <div class="header">
           <h1>Zabir Sarwar</h1>
+          <!-- got the smooth scroll to work for navbar -->
           <div class="navbar">
-            <a href="#">About Me</a>
-            <a href="#">Work</a>
-            <a href="#">Contact Me</a>
+            <a href="#about">About Me</a>
+            <a href="#work">Work</a>
+            <a href="#contact">Contact Me</a>
             <a href="#">Resume</a>
           </div>
         </div>
@@ -29,14 +30,14 @@
 
       <div class="item item-3">
         <div class="side-column">
-          <h2 class="about-header">About Me</h2>
+          <h2 id="about" class="about-header">About Me</h2>
           <p class="about-paragraph">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
         </div>
       </div>
 
       <div class="item item-4">
-        <h2 class="work-header">Work</h2>
+        <h2 id="work" class="work-header">Work</h2>
         <div>
           <img class="surf-report-img" src="assets/images/body-of-water.png" alt="body of water">
         </div>
@@ -57,7 +58,7 @@
       </div>
       
       <div class="item item-7">
-        <h2 class="contact-header">Contact Me</h2>
+        <h2 id="contact" class="contact-header">Contact Me</h2>
         <div class="contact-footer">
           <a href="#">555.555.5555</a>
           <a href="#">zabirsarwar@website.com</a>
@@ -65,11 +66,7 @@
           <a href="#">Twitter</a>
           <a href="#">Spotify</a>
         </div>
-
       </div>
-
-
-
 
     </div>
 
